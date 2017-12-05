@@ -1,17 +1,11 @@
 body {
-  max-width: 1000px;
-  padding: 1em;
+  margin: 0;
   font-family: Avenir, Arial, sans-serif;
-}
-
-div, section, main, aside, header, footer {
-  border: 1px solid lightgray;
-  padding: .5em;
-  margin-bottom: 1em;
 }
 .first-list {
   display: block;
   text-align: center;
+  list-style-type: none;
   background-color: black;
   background: #7d7e7d;
   background: -moz-linear-gradient(top, #7d7e7d 0%, #0e0e0e 100%);
