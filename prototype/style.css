@@ -1,6 +1,7 @@
 body {
   margin: 0;
   font-family: Avenir, Arial, sans-serif;
+  background-color: red;
 }
 .first-list {
   display: block;
