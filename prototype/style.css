@@ -21,3 +21,7 @@ a {
   color: white;
   text-decoration: none;
 }
+.img-responsive {
+  width: 100%;
+  height: auto;
+}
